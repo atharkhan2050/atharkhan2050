@@ -1,4 +1,4 @@
-# Hi there, I'm [Aapka Naam] 👋
+# Hi there, I'm Athar Khan 👋
 
 A passionate Full Stack Developer & Tech Enthusiast building cool projects.
 
