@@ -1,4 +1,4 @@
-# Hi there, I'm Athar Khan 👋
+https://github.com/atharkhan2050/atharkhan2050/blob/main/README.md# Hi there, I'm Athar Khan 👋
 
 🚀 **B.Tech CSE (AI & ML) Student** at **Lovely Professional University (LPU)** | 1st Year
 
@@ -53,7 +53,8 @@ A passionate learner exploring the world of Artificial Intelligence, Machine Lea
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://atharkhan-github-readme-stats.vercel.app/api?username=atharkhan2050&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://atharkhan-github-readme-stats.vercel.app/api/top-langs/?username=atharkhan2050&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+![GitHub Stats](https://atharkhan-github-readme-stats.vercel.app/api?username=atharkhan2050&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+![Top Languages](https://atharkhan-github-readme-stats.vercel.app/api/top-langs/?username=atharkhan2050&layout=compact&theme=tokyonight&hide_border=true)
