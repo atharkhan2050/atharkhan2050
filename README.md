@@ -45,6 +45,12 @@ A passionate learner exploring the world of Artificial Intelligence, Machine Lea
 
 ---
 
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atharkhan2050&theme=tokyonight&hide_border=true)
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="left">
