@@ -54,6 +54,6 @@ A passionate learner exploring the world of Artificial Intelligence, Machine Lea
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://YOUR-VERCEL-DOMAIN.vercel.app/api?username=atharkhan2050&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://vercel.com/athar-khan?repo=https%3A%2F%2Fgithub.com%2Fatharkhan2050%2Fgithub-readme-stats?username=atharkhan2050&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://YOUR-VERCEL-DOMAIN.vercel.app/api/top-langs/?username=atharkhan2050&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
