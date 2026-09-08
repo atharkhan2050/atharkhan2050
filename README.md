@@ -1,4 +1,4 @@
-https://github.com/atharkhan2050/atharkhan2050/blob/main/README.md# Hi there, I'm Athar Khan 👋
+Hi there, I'm Athar Khan 👋
 
 🚀 **B.Tech CSE (AI & ML) Student** at **Lovely Professional University (LPU)** | 1st Year
 
