@@ -1,8 +1,39 @@
-Hi there, I'm Athar Khan 👋
+👋 **Hi, I'm Athar Khan**
 
-🚀 **B.Tech CSE (AI & ML) Student** at **Lovely Professional University (LPU)** | 1st Year
+🎓 I'm a 1st-year B.Tech CSE (AI & ML) student at LPU, on a focused 4-year journey to become a high-level AI Engineer and tech entrepreneur.
 
-A passionate learner exploring the world of Artificial Intelligence, Machine Learning, and Computer Science. Currently building foundations in programming and modern technologies.
+---
+
+🚀 **Currently mastering:**
+
+- 🐍 Python, Data Structures & Machine Learning Fundamentals
+- 🌐 Web Development & API Integration (HTML/CSS, JS, React)
+- 🧠 Artificial Neural Networks & Computer Vision Basics
+- 🤖 AI Automation Tools & Model Deployment
+
+---
+
+💼 **My Vision:**
+
+To build Next-Gen AI & Machine Learning solutions that automate complex real-world problems, enhance human capabilities, and scale intelligent systems globally.
+
+---
+
+🛠️ **Current Projects:**
+
+- 🛠️ AI-Powered Personal Assistant (Python)
+- 📊 Predictive Data Analysis Dashboards
+- 🌐 Interactive Frontend Web Apps & Portfolios
+
+---
+
+🌐 **AI & Hands-On Experience:**
+
+- Built foundational ML regression and classification models using Python libraries (NumPy, Pandas, Scikit-learn)
+- Explored Large Language Model (LLM) APIs and Prompt Engineering techniques
+- Developed basic computer vision scripts using OpenCV for image recognition
+- Participated in open-source AI communities and coding hackathons
+- Hands-on experience with version control using Git and GitHub workflows
 
 ---
 
@@ -11,15 +42,6 @@ A passionate learner exploring the world of Artificial Intelligence, Machine Lea
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharkhan2050)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atharkhan2050)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharkhanlpu@gmail.com)
-
----
-
-### 🎓 Academic & Current Focus
-
-- 🎓 Pursuing **B.Tech Computer Science Engineering (AI & ML)**
-- 🏫 Student at **Lovely Professional University (LPU)** - 1st Year
-- 🧠 Learning: **Python, C/C++, HTML, CSS, JavaScript & Data Structures**
-- 🎯 Goal: Deep dive into **Machine Learning models & AI Applications**
 
 ---
 
